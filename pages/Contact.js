@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { db } from '../components/Firebase';
+import { db } from '../components/firebase';
 import contact from './Contact.module.css';
 
 const Contact = () => {
