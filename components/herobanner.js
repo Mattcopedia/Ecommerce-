@@ -13,7 +13,7 @@
             <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-center text-gray-800 dark:text-white font-black leading-7 md:leading-10">
             {herobanner.largeText1}
                 <span className="text-indigo-700">{herobanner.midText} </span>
-                to August (45% discount) 
+                <span className='text-black'>to August (45% discount) </span>
             </h1>
             <p className="mt-5 sm:mt-10 lg:w-10/12 text-gray-400 font-normal text-center text-sm sm:text-lg">
               {herobanner.desc}  
