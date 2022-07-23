@@ -20,7 +20,7 @@ const PaymentMediaObjects = () => {
       </div>  
      <div className='child2'>
      <Link href={"/Payments/UnilagForm"}>  
-           <a className='display'>UNILAG Past  Questions  and Answers </a>   
+           <a className='display'>UNILAG Past Questions </a>   
        </Link>
      </div>
         
@@ -32,7 +32,7 @@ const PaymentMediaObjects = () => {
       </div>
      <div className='child2'>
      <Link href={"/Payments/PaystackFormUIPQ/PaystackFormUIPQ"}>   
-           <a className='display'>UI Past  Questions  and Answers </a>   
+           <a className='display'>UI Past Questions</a>   
        </Link>
      </div>
         
@@ -44,7 +44,7 @@ const PaymentMediaObjects = () => {
       </div>
      <div className='child2'>
      <Link href={"/Payments/UnibenForm"}>  
-           <a className='display'>UNIBEN Past  Questions  and Answers </a>   
+           <a className='display'>UNIBEN Past Questions </a>   
        </Link>
      </div>
         
@@ -56,7 +56,7 @@ const PaymentMediaObjects = () => {
       </div>
      <div className='child2'>
      <Link href={"/Payments/UnicalForm"}>  
-           <a className='display'>UNICAL Past  Questions  and Answers </a>   
+           <a className='display'>UNICAL Past Questions</a>   
        </Link>
      </div>
          
@@ -68,7 +68,7 @@ const PaymentMediaObjects = () => {
       </div>
      <div className='child2'>
      <Link href={"/Payments/UnilorinForm"}>   
-           <a className='display'>UNILORIN Past  Questions  and Answers </a>   
+           <a className='display'>UNILORIN Past Questions</a>   
        </Link>
      </div>
         
@@ -80,7 +80,7 @@ const PaymentMediaObjects = () => {
       </div>
      <div className='child2'>
      <Link href={"/Payments/UnnForm"}>   
-           <a className='display'>UNN Past  Questions  and Answers </a>   
+           <a className='display'>UNN Past Questions</a>   
        </Link>
      </div>
         
@@ -92,7 +92,7 @@ const PaymentMediaObjects = () => {
       </div>
      <div className='child2'>
      <Link href={"/Payments/FutaForm"}>   
-           <a className='display'>FUTA Past  Questions  and Answers </a>   
+           <a className='display'>FUTA Past Questions </a>   
        </Link>
      </div>
         
