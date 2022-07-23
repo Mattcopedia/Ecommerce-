@@ -106,7 +106,7 @@ const Cart = () => {
               <button
                type='button'
                className='btn'
-               onClick="" 
+               onClick={() => setShowCart(false)}  
                >
                  Pay With Paystack  
 
